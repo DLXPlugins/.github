@@ -1,6 +1,7 @@
 ## Welcome to DLXPlugins 👋
 
-![MediaRon Logo](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
+
+![dlx-plugins-1200x628](https://user-images.githubusercontent.com/636521/171418321-5b208b3a-8986-4e19-8b88-2c5b9517aba4.png)
 
 You'll mostly find WordPress plugins here.
 
