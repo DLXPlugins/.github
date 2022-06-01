@@ -1,7 +1,6 @@
 ## Welcome to DLXPlugins 👋
 
-
-![dlx-plugins-1200x628](https://user-images.githubusercontent.com/636521/171418321-5b208b3a-8986-4e19-8b88-2c5b9517aba4.png)
+![dlx-plugins-rectangle](https://user-images.githubusercontent.com/636521/171418636-86352f92-5a78-4023-94fa-73d1c77100c8.png)
 
 You'll mostly find WordPress plugins here.
 
